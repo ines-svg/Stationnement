@@ -1,0 +1,10 @@
+P, P, P, P, N
+R, R, G, G, E
+R, R, G, G, E
+P, P, P, P, N
+
+###
+
+0, 1, P, ABC
+1, 2, G, ABD
+3, 3, P, ABX
